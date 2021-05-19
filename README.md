@@ -25,10 +25,12 @@ A simple utility that can discover all LAN/WLAN devices in specified IP range
 # Installation
 1. Install these packages using your package manager:<br>
    <i>python3, dnsutils, samba, git</i>
-2. Clone this repository:<br>
+2. Install colorama via pip:<br>
+   <i>pip3 install colorama</i>  <b>or</b>  <i>pip install colorama</i>
+3. Clone this repository:<br>
    <i>git clone https://github.com/thm-unix/devdiscover/</i>
-3. <i>cd devdiscover</i>
-4. Make 'devdiscover.py' executable:<br>
+4. <i>cd devdiscover</i>
+5. Make 'devdiscover.py' executable:<br>
    <i>chmod +x ./devdiscover.py</i><br>
    
 <i>(optional)</i>: if you want to, you can copy this file to /usr/bin/devdiscover and run it from anywhere just by typing devdiscover:<br>
