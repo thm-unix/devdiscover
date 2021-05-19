@@ -24,7 +24,7 @@ A simple utility that can discover all LAN/WLAN devices in specified IP range
 
 # Installation
 1. Install these packages using your package manager:<br>
-   <i>python3, dnsutils, samba, toilet, git</i>
+   <i>python3, dnsutils, samba, figlet, git</i>
 2. Install colorama via pip:<br>
    <i>pip3 install colorama</i>  <b>or</b>  <i>pip install colorama</i>
 3. Clone this repository:<br>
