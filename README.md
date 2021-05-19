@@ -24,7 +24,7 @@ A simple utility that can discover all LAN/WLAN devices in specified IP range
 
 # Installation
 1. Install these packages using your package manager:<br>
-   <i>python3, dnsutils, samba, net-tools, git</i>
+   <i>python3, dnsutils, samba, git</i>
 2. Clone this repository:<br>
    <i>git clone https://github.com/thm-unix/devdiscover/</i>
 3. <i>cd devdiscover</i>
