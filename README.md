@@ -22,11 +22,6 @@ A simple utility that can discover all LAN/WLAN devices in specified IP range
   <li>./devdiscover.py --ip-start=192.168.0.23 --ip-end=192.168.0.106 --show-macs --verbose --wait-response=0.5 --iface=wlan1</li>
 </ul>
 
-# Screenshots
-<img src="scr1.png">
-<img src="scr2.png">
-<img src="scr3.png">
-
 # Installation
 1. Install these packages using your package manager:<br>
    <i>python3, dnsutils, samba, figlet, git</i>
@@ -40,3 +35,9 @@ A simple utility that can discover all LAN/WLAN devices in specified IP range
    
 <i>(optional)</i>: if you want to, you can copy this file to /usr/bin/devdiscover and run it from anywhere just by typing devdiscover:<br>
    <i>sudo cp devdiscover.py /usr/bin/devdiscover</i>
+
+
+# Screenshots
+<img src="scr1.png">
+<img src="scr2.png">
+<img src="scr3.png">
